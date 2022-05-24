@@ -24,7 +24,7 @@ how to set up and test API:
 	1.4: flask run
 now is a local host server with rest api is working
 
-2. for testing i used Postman. Choose Method you want to test a time this endpoints:
+2. for testing i used Postman. Choose Method you want to test and tipe this endpoints:
 	2.1 GET:    /posts 		   -get all posts in database
 		    /posts/id/<id> 	   -get post with defined id
 		    /posts/userid/<userid> -get all posts in database with defined userid

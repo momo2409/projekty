@@ -1,0 +1,4 @@
+PS C:\Users\Admin\Desktop\projekty\.venv\Scripts> Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+PS C:\Users\Admin\Desktop\projekty\.venv\Scripts> .\activate
+PS C:\Users\Admin\Desktop\projekty\$env:FLASK_APP="app.py"
+PS C:\Users\Admin\Desktop\projekty\ flask run

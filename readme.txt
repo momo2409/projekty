@@ -10,10 +10,10 @@ operations:
 		by id: show post with given id
 		by userid: show every post that was added by given userid
 	Update
-		able to update userid, title, body
-		to update it needs to hawe id of title whitch will be updated a then you have to describe new verision of the post(updated version)
+		able to update user_id, title, body
+        	to update it needs to have id of the title which will be updated and then you have to describe new version of the post (updated version)
 	Delete
-		delete post by it's id
+		delete post by its id
 
 how to set up and test API:
 
